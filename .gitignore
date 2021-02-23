@@ -1,0 +1,16 @@
+.venv
+*.pyc
+__pycache__
+*.swp
+*.swn
+*.swo
+*.log
+.ropeproject
+*.sqlite3
+*.sublime-project
+*.map
+*.png~
+*.kra~
+papermerge_filebased_unique.egg-info/
+dist
+.vscode
